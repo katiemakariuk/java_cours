@@ -1,4 +1,4 @@
-package JavaSyntaxZero.u1_l4;
+package JavaSyntaxZero.Level1.u1_l4;
 
 public class Main1 {
     public static void main(String[] args) {
