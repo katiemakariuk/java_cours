@@ -1,0 +1,12 @@
+package JavaSyntaxZero.Level6.u6_l8;
+
+import java.util.Arrays;
+
+public class Main3 {
+    public static int[] array = {9, 8, 7, 6, 5, 4, 3, 2, 1};
+
+    public static void main(String[] args) {
+        Arrays.sort(array);
+        System.out.println(Arrays.toString(array));
+    }
+}
